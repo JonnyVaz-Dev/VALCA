@@ -1,0 +1,16 @@
+:root {
+  font-family: 'Poppins', sans-serif;
+  background-color: #0d0d0d;
+  color: #f5f5f5;
+  --accent-color: #d4af37; /* dorado elegante */
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #0d0d0d;
+  color: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
